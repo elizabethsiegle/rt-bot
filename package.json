@@ -1,0 +1,14 @@
+{
+  "name": "devtotwitterbot",
+  "version": "1.0.0",
+  "description": "17lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lizzie Siegle <esiegle@brynmawr.edu> (http://elizabethsiegle.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
