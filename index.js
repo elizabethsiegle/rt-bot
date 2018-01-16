@@ -1,9 +1,9 @@
 var Twit = require('twit');
 var T = new Twit({
-  consumer_key: '5h1AQH57CvQSbD3QLELZRYxuD',
-  consumer_secret: 'LNXADKlZkxC9GNVlGYtob2az2c1MqJDoiNJWYQZX0kHFFJZYNi',
-  access_token: '758370024-bGOv9f9TsnI4jd4HUDfAWyRj1GdURbYiKY43qPxN',
-  access_token_secret: 'P5bHF0XLtzlJRMlgijSHI3YWAeEh4xsRLzpLVWvboOE0d'
+  consumer_key: 'consumer-key',
+  consumer_secret: 'consumer-secret',
+  access_token: 'access-token',
+  access_token_secret: 'access-token-secret'
 });
 
 var users = ['hamillhimself', 'lin_manuel', 'realdonaldtrump'];
